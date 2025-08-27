@@ -20,5 +20,3 @@
 - Advanced > System Agent (SA) Configuration > Graphics Configuration > DVMT Pre Allocated (64mb)
 # Credits
 - https://github.com/DomiDomian/Thinkpad-L450-Monterey and https://github.com/Lacedaemon/Thinkpad-L450-OpenCore for audio issues clue and their ACPI handling
-# P.S.
-- I used Thinkpad T450s OC because they're practically the same thing except L450 requires less kexts and audio handling is different.
