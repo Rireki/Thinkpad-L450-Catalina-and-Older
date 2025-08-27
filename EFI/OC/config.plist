@@ -561,10 +561,10 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,3,0</string>
-                    <key>alc-layout-id</key>
-                    <data>DwAAAA==</data>
                     <key>device_type</key>
                     <string>Audio device</string>
+                    <key>layout-id</key>
+                    <data>DwAAAA==</data>
                     <key>model</key>
                     <string>Broadwell-U Audio Controller</string>
                 </dict>
@@ -1674,7 +1674,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02548100QXGDVV8C</string>
+                <string>C02719100J9GDVV8C</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1688,9 +1688,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro12,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02QR3ZYH1DP</string>
+                <string>C02TP0LCH1DP</string>
                 <key>SystemUUID</key>
-                <string>A53B6A7B-A5D6-461A-B4A7-883B1412ED45</string>
+                <string>445F171E-51A9-415B-A735-2D1E3452A4FB</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
