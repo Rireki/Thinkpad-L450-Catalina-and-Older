@@ -19,7 +19,6 @@
 ## (OPTIONAL, if you have unlocked your BIOS which isn't covered in this guide):
 - Advanced > System Agent (SA) Configuration > Graphics Configuration > DVMT Pre Allocated (64mb)
 # Credits
-- https://github.com/DomiDomian/Thinkpad-L450-Monterey for audio issues clue and their ACPI handling
-- @dj-nest for his Thinkpad T450s OC for Sonoma https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore/issues/133#issuecomment-2766144014
+- https://github.com/DomiDomian/Thinkpad-L450-Monterey and https://github.com/Lacedaemon/Thinkpad-L450-OpenCore for audio issues clue and their ACPI handling
 # P.S.
 - I used Thinkpad T450s OC because they're practically the same thing except L450 requires less kexts and audio handling is different.
