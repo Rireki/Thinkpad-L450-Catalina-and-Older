@@ -1,5 +1,6 @@
 # What works
 - Almost everything except SD Card Reader
+- Booting Monterey and older MacOS up to El Capitan (Tested)
 # Caveat
 - Turn off SD Card I/O port in BIOS>Security tab
 - Sleep will result in the lost control of FN+F5 & F6 (Brightness control) BUT still can be controlled from Control Centre (The two button thing beside Time on Top Right at MacOS desktop).
